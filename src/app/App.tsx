@@ -483,7 +483,7 @@ export default function App() {
                       <li className="flex items-start gap-2">
                         <CheckCircle2 className="w-4 h-4 text-green-500 mt-1 flex-shrink-0" />
                         <span>
-                          Thành viên ội tuyển HSG giải Toán &
+                          Thành viên đội tuyển HSG giải Toán &
                           Hóa trên máy tính cầm tay
                         </span>
                       </li>
@@ -762,7 +762,7 @@ export default function App() {
             <div className="grid md:grid-cols-4 gap-8 mb-8">
               <div className="md:col-span-2">
                 <h3 className="text-white mb-4">
-                  Khóa học Tăng Tốc 90 Ngày
+                  Khóa học tăng tốc 90 ngày
                 </h3>
                 <p className="text-gray-400 mb-4">
                   Đồng hành cùng các sĩ tử trên con đường chinh
